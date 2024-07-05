@@ -21,22 +21,20 @@ export const HeroSection = () => {
 
           <div className="max-w-screen-md mx-auto text-center text-4xl md:text-6xl font-bold">
             <h1>
-              Experiece the
-              <span className="text-transparent px-2 bg-gradient-to-r from-[#D247BF] to-primary bg-clip-text">
-                Shadcn
+              Welcome to
+              <span className="text-transparent px-2 bg-gradient-to-r from-green-800 to-primary bg-clip-text">
+                FossPage
               </span>
-              landing page
             </h1>
           </div>
 
           <p className="max-w-screen-sm mx-auto text-xl text-muted-foreground">
-            {`We're more than just a tool, we're a community of passionate
-            creators. Get access to exclusive resources, tutorials, and support.`}
+            {`Fosspage is an open-source platform providing a comprehensive collection of tools designed to enhance and simplify your digital experience.`}
           </p>
 
           <div className="space-y-4 md:space-y-0 md:space-x-4">
             <Button className="w-5/6 md:w-1/4 font-bold group/arrow">
-              Get Started
+              Explore Tools
               <ArrowRight className="size-5 ml-2 group-hover/arrow:translate-x-1 transition-transform" />
             </Button>
 
@@ -45,10 +43,7 @@ export const HeroSection = () => {
               variant="secondary"
               className="w-5/6 md:w-1/4 font-bold"
             >
-              <Link
-                href="https://github.com/nobruf/shadcn-landing-page.git"
-                target="_blank"
-              >
+              <Link href="https://github.com/prathamdupare" target="_blank">
                 Github respository
               </Link>
             </Button>

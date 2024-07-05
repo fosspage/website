@@ -26,52 +26,51 @@ interface ReviewProps {
 
 const reviewList: ReviewProps[] = [
   {
-    image: "https://github.com/shadcn.png",
-    name: "John Doe",
-    userName: "Product Manager",
+    image: "https://example.com/ravi_kumar.png",
+    name: "Ravi Kumar",
+    userName: "Software Engineer",
     comment:
-      "Wow NextJs + Shadcn is awesome!. This template lets me change colors, fonts and images to match my brand identity. ",
+      "Fosspage is fantastic! The open-source tools are incredibly useful for my projects. They've helped me streamline development and save time.",
     rating: 5.0,
   },
   {
-    image: "https://github.com/shadcn.png",
-    name: "Sophia Collins",
-    userName: "Cybersecurity Analyst",
+    image: "https://example.com/ananya_sharma.png",
+    name: "Ananya Sharma",
+    userName: "UI Designer",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. ",
+      "I'm impressed with Fosspage's commitment to privacy. The tools are not only secure but also beautifully designed, making my work much more enjoyable.",
     rating: 4.8,
   },
-
   {
-    image: "https://github.com/shadcn.png",
-    name: "Adam Johnson",
-    userName: "Chief Technology Officer",
+    image: "https://example.com/rahul_joshi.png",
+    name: "Rahul Joshi",
+    userName: "Data Analyst",
     comment:
-      "Lorem ipsum dolor sit amet,exercitation. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "Using Fosspage has been a game-changer for our analytics team. The tools are robust and easy to integrate, enhancing our data processing capabilities.",
     rating: 4.9,
   },
   {
-    image: "https://github.com/shadcn.png",
-    name: "Ethan Parker",
-    userName: "Data Scientist",
+    image: "https://example.com/maya_patel.png",
+    name: "Maya Patel",
+    userName: "Project Manager",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore et dolore magna aliqua. Ut enim ad minim veniam.",
+      "Fosspage has simplified project management for me. The tools allow seamless collaboration and organization, boosting team productivity.",
     rating: 5.0,
   },
   {
-    image: "https://github.com/shadcn.png",
-    name: "Ava Mitchell",
-    userName: "IT Project Manager",
+    image: "https://example.com/akash_singh.png",
+    name: "Akash Singh",
+    userName: "Full Stack Developer",
     comment:
-      "Lorem ipsum dolor sit amet, tempor incididunt  aliqua. Ut enim ad minim veniam, quis nostrud incididunt consectetur adipiscing elit.",
+      "I highly recommend Fosspage! The tools are versatile and well-documented, making them a great choice for developers looking to innovate.",
     rating: 5.0,
   },
   {
-    image: "https://github.com/shadcn.png",
-    name: "Isabella Reed",
-    userName: "DevOps Engineer",
+    image: "https://example.com/isha_mehta.png",
+    name: "Isha Mehta",
+    userName: "System Administrator",
     comment:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fosspage's tools are reliable and efficient. They've helped us optimize our systems while maintaining high standards of security and performance.",
     rating: 4.9,
   },
 ];
